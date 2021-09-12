@@ -11,3 +11,4 @@ Robin likes the web app we have created. However, she wants to add full-resoluti
 ![app.py](app.py)
 ### HTML File 
 ![index.html](templates/index.html)
+## Images
