@@ -5,8 +5,9 @@ Robin likes the web app we have created. However, she wants to add full-resoluti
 ### Mission to Mars Challenge Code
 ![Jupyter Notebook File](Mission_to_Mars_Challenge.ipynb)\
 ![Python File](Mission_to_Mars_Challenge.py)
-Scraping file: ![Scraping](scraping.py)\
-\
-App file: ![app.py](app.py)\
-\
-HTML file: ![index.html](templates/index.html)
+### Scraping File
+![Scraping](scraping.py)
+### App File
+![app.py](app.py)
+### HTML File 
+![index.html](templates/index.html)
