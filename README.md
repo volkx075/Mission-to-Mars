@@ -12,4 +12,6 @@ Robin likes the web app we have created. However, she wants to add full-resoluti
 ### HTML File 
 ![index.html](templates/index.html)
 ## Images
-![Image 1](Picture1.PNG)
+![Image 1](Images/Picture1.PNG)
+![Image 2](Images/Picture2.PNG)
+![Image 3](Images/Picture3.PNG)
